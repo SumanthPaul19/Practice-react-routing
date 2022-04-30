@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "pauly",
+      "password": "abcde",
+      "mail": "sumanth@gmail",
+      "profilepic": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg",
+      "textarea": "I'm Sumanth Paul",
+      "id": 1
+    },
+    {
+      "username": "pauly",
+      "password": "abcde",
+      "id": 1
+    },
+    {
+      "username": "pauly",
+      "password": "abcde",
+      "mail": "sumanth@gmail",
+      "profilepic": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg",
+      "textarea": "qwertty",
+      "id": 2
+    },
+    {
+      "username": "pauly",
+      "password": "abcde",
+      "id": 3
+    }
+  ]
+}
